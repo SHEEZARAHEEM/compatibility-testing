@@ -29,7 +29,7 @@ overflow: hidden;
 
 **Screenshot:**
 
-![Simulated Bug](screenshots/navbar_issue_chrome.png)
+[![Simulated Bug](screenshots/navbar_issue_chrome.png)](https://raw.githubusercontent.com/SHEEZARAHEEM/compatibility-testing/refs/heads/main/screenshots/navbar_issue_chrome.png)
 
 Recommendation:
 

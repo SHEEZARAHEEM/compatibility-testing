@@ -29,7 +29,8 @@
 - At 768px width, image cards in product grid overflow slightly
 
 **Screenshot:**  
-![Simulated Bug](screenshots/ipad_overlap_firefox.png)
+![iPad Overlap on Firefox](https://raw.githubusercontent.com/SHEEZARAHEEM/compatibility-testing/main/screenshots/ipad_overlap_firefox.png)
+
 
 
 **Recommendation:**
